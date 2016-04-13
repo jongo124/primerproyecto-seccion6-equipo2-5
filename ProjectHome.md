@@ -1,0 +1,1 @@
+Proyecto del clasico juego del buscaminas en modelo-vista-controlador, programado para la sección 6 de la asignatura Laboratorio II de la carrera de Ingenieria en Informatica de la UCLA.
